@@ -18,6 +18,24 @@ JFactory::getDocument()->addStyleSheet('templates/'.$this->template.'/css/templa
 </head>
 
 <body>
+	<!-- Begin Navigation -->
+	<div class="navbar navbar-fixed-top">
+		<div class="navbar-inner">
+			<div class="container">
+				<a data-target=".navbar-responsive-collapse" data-toggle="collapse" class="btn btn-navbar">
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</a>
+				<a class="brand" href="<?php echo $this->baseurl; ?>"><?php echo(JFactory::getApplication()->getCfg('sitename'));?></a>
+				<div class="nav-collapse collapse navbar-responsive-collapse">
+					<jdoc:include type="modules" name="menu" style="none" />
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- End Navigation -->
+
 	<!-- Begin Content -->
 	<div class="container">
 		<div id="header" class="row-fluid">
