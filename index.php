@@ -18,8 +18,27 @@ JFactory::getDocument()->addStyleSheet('templates/'.$this->template.'/css/templa
 </head>
 
 <body>
-	<jdoc:include type="message" />
-	<jdoc:include type="component" />
+	<!-- Begin Content -->
+	<div class="container">
+		<div id="header" class="row-fluid">
+			<jdoc:include type="modules" name="header" style="xhtml" />
+		</div>
+		<div id="specialisaties" class="row-fluid">
+			<jdoc:include type="modules" name="abovecontent" style="xhtml" />
+		</div>
+		<div id="portfolio">
+			<hr>
+			<jdoc:include type="message" />
+			<jdoc:include type="component" />
+		</div>
+		<div id="contact" class="row-fluid">
+			<jdoc:include type="modules" name="bottom" style="xhtml" />
+		</div>
+		<div class="row-fluid">
+			<p align="center">&copy; <?php echo(JFactory::getApplication()->getCfg('sitename'));?> <?php echo date('Y') ?></p>
+		</div>
+	</div>
+	<!-- End Content -->
 </body>
 
 <jdoc:include type="modules" name="debug" style="none" />
