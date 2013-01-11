@@ -1,5 +1,13 @@
 <?php
 defined('_JEXEC') or die;
+
+// Include Joomla Bootstrap CSS & JS
+JHtml::_('bootstrap.framework');
+JHtmlBootstrap::loadCss();
+
+// Include additional CSS
+JFactory::getDocument()->addStyleSheet('media/jui/css/icomoon.css');
+JFactory::getDocument()->addStyleSheet('templates/'.$this->template.'/css/template.css');
 ?>
 
 <!DOCTYPE html>
