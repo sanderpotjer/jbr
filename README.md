@@ -10,19 +10,19 @@ In this repository you will find the code needed for the steps in the tutorial. 
 
 Step 2
 --------------
-View code changes: a32912d65caa1fe9a0ae1d0d848b006838d5081d
+View code changes: https://github.com/sanderpotjer/jbr/commit/a32912d65caa1fe9a0ae1d0d848b006838d5081d
 
 Step 3
 --------------
-View code changes: 9d7d26fbcf2b9ffdb43d9576bb86a3a835518483
+View code changes: https://github.com/sanderpotjer/jbr/commit/9d7d26fbcf2b9ffdb43d9576bb86a3a835518483
 
 Step 4
 --------------
-View code changes: 01a5bf8d3e69c7ff2d1c3de9369fe3ec17229ca4
+View code changes: https://github.com/sanderpotjer/jbr/commit/01a5bf8d3e69c7ff2d1c3de9369fe3ec17229ca4
 
 Step 7
 --------------
-View code changes: 68cec6044d622f234c23fc072df591d8f661bbdf
+View code changes: https://github.com/sanderpotjer/jbr/commit/68cec6044d622f234c23fc072df591d8f661bbdf
 
 Step 8
 --------------
@@ -74,20 +74,20 @@ Step 11
 
 Step 13
 --------------
-View code changes: 8f9bad2ce10e59714069b6e009b09cf3031fa09c
+View code changes: https://github.com/sanderpotjer/jbr/commit/8f9bad2ce10e59714069b6e009b09cf3031fa09c
 
 Step 14
 --------------
-View code changes: eb26c0d09846ff62fccf5c5551abcc15244d84e1
+View code changes: https://github.com/sanderpotjer/jbr/commit/eb26c0d09846ff62fccf5c5551abcc15244d84e1
 
 Step 15
 --------------
-View code changes: 20a23c713fa06acb8d6a8a6f1db3fc0ebb4f8362
+View code changes: https://github.com/sanderpotjer/jbr/commit/20a23c713fa06acb8d6a8a6f1db3fc0ebb4f8362
 
 Step 16
 --------------
-View code changes: 6797cf7e003f01710ed94f0bf1caae45a874b04a
+View code changes: https://github.com/sanderpotjer/jbr/commit/6797cf7e003f01710ed94f0bf1caae45a874b04a
 
 Step 17
 --------------
-View code changes: 31a83a07008c4c268e93988378d8f084b76e08f1
+View code changes: https://github.com/sanderpotjer/jbr/commit/31a83a07008c4c268e93988378d8f084b76e08f1
