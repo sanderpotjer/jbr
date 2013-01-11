@@ -17,7 +17,7 @@ JFactory::getDocument()->addStyleSheet('templates/'.$this->template.'/css/templa
 	<jdoc:include type="head" />
 </head>
 
-<body>
+<body data-spy="scroll" data-target=".navbar">
 	<!-- Begin Navigation -->
 	<div class="navbar navbar-fixed-top">
 		<div class="navbar-inner">
