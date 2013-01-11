@@ -21,10 +21,10 @@ JFactory::getDocument()->addStyleSheet('templates/'.$this->template.'/css/templa
 	<!-- Begin Content -->
 	<div class="container">
 		<div id="header" class="row-fluid">
-			<jdoc:include type="modules" name="header" style="xhtml" />
+			<jdoc:include type="modules" name="header" style="bootstrap" />
 		</div>
 		<div id="specialisaties" class="row-fluid">
-			<jdoc:include type="modules" name="abovecontent" style="xhtml" />
+			<jdoc:include type="modules" name="abovecontent" style="bootstrap" />
 		</div>
 		<div id="portfolio">
 			<hr>
@@ -32,7 +32,7 @@ JFactory::getDocument()->addStyleSheet('templates/'.$this->template.'/css/templa
 			<jdoc:include type="component" />
 		</div>
 		<div id="contact" class="row-fluid">
-			<jdoc:include type="modules" name="bottom" style="xhtml" />
+			<jdoc:include type="modules" name="bottom" style="bootstrap" />
 		</div>
 		<div class="row-fluid">
 			<p align="center">&copy; <?php echo(JFactory::getApplication()->getCfg('sitename'));?> <?php echo date('Y') ?></p>
