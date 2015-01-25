@@ -1,4 +1,4 @@
-Joomla 3 Bootstrap Responsive template tutorial for Joomla Webdesigner Magazine
+Joomla 3 Bootstrap Responsive template workshop for Joomla Webdesigner Magazine
 ================================
 This Joomla 3 template is created for a workshop in the Dutch Joomla Webdesigner Magazine 2015.
 
