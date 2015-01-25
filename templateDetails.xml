@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install PUBLIC "-//Joomla! 2.5//DTD template 1.0//EN" "http://www.joomla.org/xml/dtd/2.5/template-install.dtd">
+<extension version="3.0" type="template" client="site">
+	<name>jbr</name>
+	<version>2.0</version>
+	<creationDate>Januari 2015</creationDate>
+	<author>Sander Potjer</author>
+	<authorEmail>info@sanderpotjer.nl</authorEmail>
+	<copyright>Copyright (C) 2015 Sander Potjer.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<description>Joomla Bootstrap Responsive template for Webdesigner Magazine workshop</description>
+	<files>
+		<filename>index.php</filename>
+		<filename>favicon.ico</filename>
+		<filename>templateDetails.xml</filename>
+		<filename>template_preview.png</filename>
+		<filename>template_thumbnail.png</filename>
+		<folder>css</folder>
+		<folder>html</folder>
+		<folder>images</folder>
+	</files>
+	<positions>
+		<position>menu</position>
+		<position>header</position>
+		<position>abovecontent</position>
+		<position>bottom</position>
+		<position>debug</position>
+	</positions>
+</extension>
