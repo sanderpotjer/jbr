@@ -1,34 +1,34 @@
-Joomla 3.0 Bootstrap Responsive template tutorial for Webdesigner Magazine
+Joomla 3 Bootstrap Responsive template tutorial for Joomla Webdesigner Magazine
 ================================
-This Joomla 3.0 template is created for a tutorial in the Dutch Webdesigner magazine (www.webdesignermagazine.nl) and will be published in edition 53 (February 5, 2013).
+This Joomla 3 template is created for a workshop in the Dutch Joomla Webdesigner Magazine 2015.
 
-The tutorial explains how to use the new possibilities of Joomla 3.0 in your template. It makes use of **Bootstrap** and the **'Joomla User Interface'** (JUI) Library. 
+The workshop explains how to use the possibilities of Joomla 3 in your template. It makes use of **Bootstrap** and the **'Joomla User Interface'** (JUI) Library. 
 
 The result is a simple one page **responsive website** with less then 50 lines of custom CSS.
 
-In this repository you will find the code needed for the steps in the tutorial. You can view the final result of the tutorial on http://jbr.sanderpotjer.nl.
+In this repository you will find the code needed for each of the steps in the workshop. 
+
+Step 1
+--------------
+View code changes: https://github.com/sanderpotjer/jbr/commit/7aa1456099ce1a54805fdba99a4e7aba7227b0e2
 
 Step 2
 --------------
-View code changes: https://github.com/sanderpotjer/jbr/commit/a32912d65caa1fe9a0ae1d0d848b006838d5081d
+View code changes: https://github.com/sanderpotjer/jbr/commit/c2210ed035061c29719f85d0d2fd0ae9578034c6
 
 Step 3
 --------------
-View code changes: https://github.com/sanderpotjer/jbr/commit/9d7d26fbcf2b9ffdb43d9576bb86a3a835518483
-
-Step 4
---------------
-View code changes: https://github.com/sanderpotjer/jbr/commit/01a5bf8d3e69c7ff2d1c3de9369fe3ec17229ca4
+View code changes: https://github.com/sanderpotjer/jbr/commit/26f1c3160e708657e86dc4af1611d58bfa91feab
 
 Step 7
 --------------
-View code changes: https://github.com/sanderpotjer/jbr/commit/68cec6044d622f234c23fc072df591d8f661bbdf
+View code changes: https://github.com/sanderpotjer/jbr/commit/517ad7be340af19527f770658a9d6af1599fa549
 
 Step 8
 --------------
 ```html
-<img alt="Joomla 3 Bootstrap Responsive" src="templates/jbr/images/joomla3.jpg" />
-<h1>Responsive websites met Joomla 3 &amp; Bootstrap</h1>
+<img alt="Joomla Bootstrap Responsive" src="templates/jbr/images/joomla.jpg" />
+<h1>Responsive websites met Joomla & Bootstrap</h1>
 <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
 ```
 
@@ -69,25 +69,25 @@ Step 10
 Step 11
 --------------
 ```html
-<p>www.joomla.org/3<br /><span class="badge badge-info">Joomla 3.0</span> <span class="badge badge-warning">Bootstrap</span></p>
+<p><span class="badge badge-info">Joomla 3</span> <span class="badge badge-warning">Bootstrap</span></p>
 ```
 
 Step 13
 --------------
-View code changes: https://github.com/sanderpotjer/jbr/commit/8f9bad2ce10e59714069b6e009b09cf3031fa09c
-
-Step 14
---------------
-View code changes: https://github.com/sanderpotjer/jbr/commit/eb26c0d09846ff62fccf5c5551abcc15244d84e1
+View code changes: https://github.com/sanderpotjer/jbr/commit/312672abca5fdac53f801b643ace4569a5f45847
 
 Step 15
 --------------
-View code changes: https://github.com/sanderpotjer/jbr/commit/20a23c713fa06acb8d6a8a6f1db3fc0ebb4f8362
-
-Step 16
---------------
-View code changes: https://github.com/sanderpotjer/jbr/commit/6797cf7e003f01710ed94f0bf1caae45a874b04a
+View code changes: https://github.com/sanderpotjer/jbr/commit/15057f6f8cbc29e20f209417f56b98815e5c1159
 
 Step 17
 --------------
-View code changes: https://github.com/sanderpotjer/jbr/commit/31a83a07008c4c268e93988378d8f084b76e08f1
+View code changes: https://github.com/sanderpotjer/jbr/commit/898b35f9f60b30c6cd67ad7003f274a49f8099c4
+
+Step 18
+--------------
+View code changes: https://github.com/sanderpotjer/jbr/commit/f149efaa87f82b9de03c65643b5718758ad6adc7
+
+Step 19
+--------------
+View code changes: https://github.com/sanderpotjer/jbr/commit/70fd6b72653c6f89884cf8877d8a211fce616062
