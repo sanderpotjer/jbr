@@ -1,0 +1,16 @@
+.row-fluid .firstinrow {
+	margin-left: 0;
+}
+
+.thumbnail {
+	background: #fff;
+}
+
+.thumbnail:hover {
+	text-decoration: none;
+}
+
+.thumbnail h5,
+.thumbnail p {
+	margin: 0;
+}
